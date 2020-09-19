@@ -28,6 +28,7 @@
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Asmae Kabbaz](https://github.com/AsmaeK)
 - [Ariq Heritsa](https://github.com/Heritsam)
+- [Aritro Chakraborty](https://github.com/aritrochakraborty29)
 - [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh garg](https://gitHub.com/ashutosh321607)
 - [Ashutosh Singh](https://github.com/zohan4sh)
